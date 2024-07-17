@@ -1,7 +1,7 @@
 # SI-1
 
 ## 🌟4th Sem Summer Internship 2024 🌟
-Welcome to my github repository for the Summer Internship 2024!This project showcases the work done during the internship, including practical insights and hands-on experience with BrainyBeam Technologies.
+Welcome to my github repository for the Summer Internship 2024!This project showcases the work done during the internship, including practical insights and hands-on experience with Technologies.
 
 ## 🚀 Introduction 🚀
 • On May 22th, I officially began my internship at exposys, that significantly enhanced my web development and project management skills.
